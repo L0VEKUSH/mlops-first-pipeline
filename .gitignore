@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+aiops2-env/
+.venv/
+venv/
+.env
